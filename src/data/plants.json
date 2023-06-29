@@ -3,72 +3,72 @@
     {
       "id": "1",
       "name": "Aloe Vera",
-      "type": "xerófita",
-      "price": "15,00",
-      "selling_price": "12,98",
+      "type": "Xerophytic",
+      "price": "15.00",
+      "selling_price": "12.98",
       "img": "https://images.unsplash.com/photo-1509423350716-97f9360b4e09?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=435&q=80",
       "sold_out": "false",
-      "description": "A Aloe vera, também conhecida como babosa, é uma planta suculenta que possui folhas carnudas repletas de um gel transparente e nutritivo. Com propriedades calmantes, cicatrizantes e hidratantes, a Aloe vera é amplamente utilizada na indústria cosmética e de cuidados pessoais, auxiliando no tratamento de queimaduras, irritações cutâneas e promovendo a saúde da pele. Além disso, a planta possui propriedades anti-inflamatórias, antioxidantes e pode contribuir para a melhoria da digestão quando consumida internamente."
+      "description": "Aloe vera, also known as aloe, is a succulent plant that has fleshy leaves filled with a clear, nourishing gel. With soothing, healing, and moisturizing properties, Aloe vera is widely used in the cosmetic and personal care industry to help treat burns, skin irritations, and promote skin health. In addition, the plant has anti-inflammatory properties, antioxidants, and can contribute to improved digestion when consumed internally."
     },
     {
       "id": "2",
-      "name": "Videira",
-      "type": "Trepadeira",
-      "price": "35,00",
-      "selling_price": "31,99",
+      "name": "Vine",
+      "type": "Climber",
+      "price": "35.00",
+      "selling_price": "31.99",
       "img": "https://images.unsplash.com/photo-1536846826492-c51b3984bc96?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
       "sold_out": "false",
-      "description": "A videira, também conhecida como parreira, é uma planta trepadeira lenhosa que pertence à família Vitaceae e ao gênero Vitis. Reconhecida principalmente pela produção de uvas, a videira é cultivada em todo o mundo para a produção de vinho, sucos, geleias e uvas de mesa. As videiras possuem caules flexíveis e longos, que se estendem e se agarram a suportes, como treliças ou arames, através de gavinhas. Suas folhas são grandes e palmadas, proporcionando sombra para as uvas em desenvolvimento. As uvas, frutos das videiras, vêm em uma variedade de cores e tamanhos, e são colhidas quando maduras. A videira é uma planta de grande importância econômica e cultural, e suas uvas são apreciadas tanto por seu sabor quanto por seu uso na produção de bebidas e alimentos."
+      "description": "The vine, also known as grapevine, is a woody climbing plant belonging to the family Vitaceae and the genus Vitis. Recognized mainly for producing grapes, the vine is cultivated throughout the world for the production of wine, juice, jam, and table grapes. Vines have long, flexible stems that extend and cling to supports, such as trellises or wires, by means of tendrils. Their leaves are large and palmate, providing shade for the developing grapes. Grapes, the fruit of the vines, come in a variety of colors and sizes, and are harvested when ripe. The vine is a plant of great economic and cultural importance, and its grapes are appreciated both for their flavor and for their use in beverage and food production."
     },
     {
       "id": "3",
-      "name": "Cacto",
-      "type": "Suculenta",
-      "price": "19,00",
-      "selling_price": "16,99",
+      "name": "Cactus",
+      "type": "Succulent",
+      "price": "19.00",
+      "selling_price": "16.99",
       "img": "https://images.unsplash.com/photo-1509937528035-ad76254b0356?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=724&q=80",
       "sold_out": "false",
-      "description": "O cacto é uma planta suculenta que pertence à família das Cactaceae. Reconhecido por sua capacidade de sobreviver em ambientes áridos e secos, como desertos, o cacto possui caules suculentos e espinhos modificados, que ajudam a reduzir a perda de água. Suas folhas são transformadas em espinhos para evitar a transpiração excessiva e proteger-se de predadores. Além disso, muitos cactos desenvolvem flores coloridas e vistosas, que geralmente se abrem durante a noite para atrair polinizadores. Com uma ampla variedade de formas e tamanhos, os cactos são apreciados como plantas ornamentais devido à sua aparência única e capacidade de adaptação a condições extremas."
+      "description": "The cactus is a succulent plant that belongs to the Cactaceae family. Recognized for its ability to survive in arid, dry environments such as deserts, the cactus has succulent stems and modified spines that help reduce water loss. Its leaves are transformed into spines to prevent excessive transpiration and protect itself from predators. In addition, many cacti develop colorful, showy flowers that usually open at night to attract pollinators. With a wide variety of shapes and sizes, cacti are prized as ornamental plants because of their unique appearance and ability to adapt to extreme conditions."
     },
     {
       "id": "4",
-      "name": "Suculenta",
-      "type": "Suculenta",
-      "price": "19,00",
-      "selling_price": "16,99",
+      "name": "Succulent",
+      "type": "Succulent",
+      "price": "19.00",
+      "selling_price": "16.99",
       "img": "https://images.unsplash.com/photo-1548587449-2c1dcd68cecd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=403&q=80",
       "sold_out": "false",
-      "description": "As plantas suculentas são um grupo diversificado de plantas que possuem a capacidade de armazenar água em suas folhas, caules ou raízes, permitindo-lhes sobreviver em ambientes áridos. Essas plantas têm folhas e tecidos carnudos, adaptados para reter água, o que lhes confere uma aparência única. Elas vêm em uma ampla variedade de formas, tamanhos e cores, com algumas apresentando folhas suculentas em forma de roseta, enquanto outras têm caules suculentos e espinhos. As plantas suculentas são valorizadas por sua capacidade de sobrevivência em condições secas e por sua resistência, sendo uma escolha popular para jardins de xerófitas e decoração interna, além de exigirem menos rega e manutenção em comparação com outras plantas."
+      "description": "Succulents are a diverse group of plants that possess the ability to store water in their leaves, stems, or roots, allowing them to survive in arid environments. These plants have fleshy leaves and tissues that are adapted to retain water, giving them a unique appearance. They come in a wide variety of shapes, sizes, and colors, with some featuring rosette-like succulent leaves, while others have succulent stems and spines. Succulents are valued for their ability to survive in dry conditions and for their hardiness, making them a popular choice for xerophytic gardens and interior decoration, and requiring less watering and maintenance compared to other plants."
     },
     {
       "id": "5",
       "name": "Gasteria",
-      "type": "Suculenta",
-      "price": "25,00",
-      "selling_price": "22,99",
+      "type": "Succulent",
+      "price": "25.00",
+      "selling_price": "22.99",
       "img": "https://images.unsplash.com/photo-1509223197845-458d87318791?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=949&q=80",
       "sold_out": "false",
-      "description": "A Gasteria é uma planta suculenta que pertence ao gênero Gasteria, da família Asphodelaceae. Originária do sul da África, a Gasteria é apreciada por suas folhas suculentas, carnudas e atraentes. Suas folhas são geralmente verdes, muitas vezes com padrões ou manchas distintas, e crescem em rosetas compactas. A planta produz hastes florais que carregam flores tubulares em tons variados, como branco, rosa ou laranja. A Gasteria é popular como planta ornamental devido à sua aparência única e à facilidade de cultivo, sendo adequada para ambientes internos e externos com luz indireta. Além disso, suas características suculentas permitem que a planta armazene água, tornando-a resiliente em condições mais secas."
+      "description": "Gasteria is a succulent plant that belongs to the genus Gasteria of the Asphodelaceae family. Native to southern Africa, Gasteria is prized for its succulent, fleshy, and attractive leaves. Its leaves are usually green, often with distinctive patterns or spots, and grow in compact rosettes. The plant produces floral stems that bear tubular flowers in varying shades, such as white, pink, or orange. Gasteria is popular as an ornamental plant because of its unique appearance and ease of cultivation, and is suitable for indoor and outdoor settings with indirect light. In addition, its succulent characteristics allow the plant to store water, making it resilient in drier conditions."
     },
     {
       "id": "6",
-      "name": "Antúrio",
+      "name": "Anthurium",
       "type": "Aráceas",
-      "price": "35,70",
-      "selling_price": "33,95",
+      "price": "35.70",
+      "selling_price": "33.95",
       "img": "https://images.unsplash.com/photo-1603436326446-74e2d65f3168?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=471&q=80",
       "sold_out": "false",
-      "description": "O Antúrio é uma planta tropical ornamental pertencente à família Araceae e ao gênero Anthurium. Originária das florestas tropicais da América Central e América do Sul, essa planta é conhecida por suas folhas brilhantes e corações em forma de espada. As folhas do Antúrio podem variar em cor, desde o verde intenso até tons de vermelho, rosa ou branco, e geralmente possuem uma textura brilhante. No centro da planta, surge uma espiga contendo flores pequenas e discretas, cercadas por uma bráctea chamativa e colorida que pode ser vermelha, rosa, laranja ou branca. Essa bráctea é frequentemente confundida com a flor, mas, na verdade, é uma folha modificada. O Antúrio é uma escolha popular para decoração de ambientes internos, devido à sua aparência exótica e elegante. Além disso, é uma planta relativamente fácil de cuidar, sendo apreciada por sua longevidade como flor de corte e sua capacidade de adicionar um toque tropical a qualquer espaço."
+      "description": "Anthurium is a tropical ornamental plant belonging to the family Araceae and the genus Anthurium. Native to the rainforests of Central and South America, this plant is known for its glossy leaves and sword-shaped hearts. Anthurium leaves can vary in color from deep green to shades of red, pink, or white, and usually have a glossy texture. In the center of the plant, a spike appears containing small, inconspicuous flowers surrounded by an eye-catching, colorful bract that can be red, pink, orange, or white. This bract is often mistaken for the flower, but is actually a modified leaf. Anthurium is a popular choice for indoor decoration because of its exotic and elegant appearance. In addition, it is a relatively easy plant to care for, and is appreciated for its longevity as a cut flower and its ability to add a tropical feel to any space."
     },
     {
       "id": "7",
       "name": "Bonsai",
       "type": "Bonsai",
-      "price": "75,90",
-      "selling_price": "72,00",
+      "price": "75.90",
+      "selling_price": "72.00",
       "img": "https://images.unsplash.com/photo-1467043198406-dc953a3defa0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=429&q=80",
       "sold_out": "true",
-      "description": "O bonsai é uma forma de arte horticultural que envolve o cultivo de árvores ou arbustos em miniatura em vasos pequenos, através de técnicas de poda, modelagem e controle do crescimento. Originada na China e aperfeiçoada no Japão, a prática do bonsai combina habilidades técnicas com uma visão artística para criar representações em escala reduzida da natureza. Os bonsais são apreciados por sua beleza, delicadeza e harmonia, capturando a essência das árvores em seu estado natural, mesmo em um tamanho tão pequeno. Cuidar de um bonsai requer dedicação, paciência e conhecimento sobre as necessidades específicas de cada espécie, mas o resultado é uma obra de arte viva que transmite uma sensação de serenidade e conexão com a natureza."
+      "description": "Bonsai is a horticultural art form that involves growing miniature trees or shrubs in small pots through techniques of pruning, shaping, and controlling growth. Originating in China and perfected in Japan, the practice of bonsai combines technical skills with an artistic vision to create scaled-down representations of nature. Bonsais are appreciated for their beauty, delicacy and harmony, capturing the essence of trees in their natural state, even at such a small size. Caring for a Bonsai requires dedication, patience and knowledge about the specific needs of each species, but the result is a living work of art that conveys a sense of serenity and connection with nature."
     }
   ]
 }
